@@ -16,19 +16,19 @@ HotspotPanoramaOverlayTextImage_28CD241F_AA59_A40F_41E5_5A5690A15567.text = Back
 HotspotPanoramaOverlayTextImage_94421205_894C_D590_41C6_4933B9627F6B.text = Black Box
 HotspotPanoramaOverlayTextImage_9C37345A_897C_5DB0_41C6_4135DD34986A.text = Black Box and Rivoli THeater
 HotspotPanoramaOverlayTextImage_AA88460E_89D5_FD91_41AC_C8627E4274EC.text = Cones
+HotspotPanoramaOverlayTextImage_9F109E39_8973_CDF0_41DD_CA5BE5E44734.text = Good books and fine records
 HotspotPanoramaOverlayTextImage_94F9EEEE_89B4_4A90_4185_9B92AFB2DF61.text = Green Room
 HotspotPanoramaOverlayTextImage_28C0DE78_AA49_A411_41D2_21CBCA400010.text = Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit est, suscipit sit amet lectus non, blandit dapibus arcu. Sed auctor ante augue, sed pellentesque tortor faucibus quis. Fusce et ipsum non lectus placerat vulputate semper nec metus.
-HotspotPanoramaOverlayTextImage_2CAECF6B_AA48_E437_41D5_CAE61943A01C.text = Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit est, suscipit sit amet lectus non, blandit dapibus arcu. Sed auctor ante augue, sed pellentesque tortor faucibus quis. Fusce et ipsum non lectus placerat vulputate semper nec metus.
 HotspotPanoramaOverlayTextImage_28CD741F_AA59_A40F_41DB_4B635406A902.text = Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit est, suscipit sit amet lectus non, blandit dapibus arcu. Sed auctor ante augue, sed pellentesque tortor faucibus quis. Fusce et ipsum non lectus placerat vulputate semper nec metus.
-HotspotPanoramaOverlayTextImage_EDF55788_AA7B_A4F1_41C5_B30A89F49C6B.text = Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit est, suscipit sit amet lectus non, blandit dapibus arcu. Sed auctor ante augue, sed pellentesque tortor faucibus quis. Fusce et ipsum non lectus placerat vulputate semper nec metus.
 HotspotPanoramaOverlayTextImage_2D5B60F2_AA49_9C11_41D6_DA8BB4D72F1C.text = Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit est, suscipit sit amet lectus non, blandit dapibus arcu. Sed auctor ante augue, sed pellentesque tortor faucibus quis. Fusce et ipsum non lectus placerat vulputate semper nec metus.
+HotspotPanoramaOverlayTextImage_2CAECF6B_AA48_E437_41D5_CAE61943A01C.text = Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit est, suscipit sit amet lectus non, blandit dapibus arcu. Sed auctor ante augue, sed pellentesque tortor faucibus quis. Fusce et ipsum non lectus placerat vulputate semper nec metus.
+HotspotPanoramaOverlayTextImage_EDF55788_AA7B_A4F1_41C5_B30A89F49C6B.text = Lorem ipsum dolor sit amet, consectetur adipiscing elit. In velit est, suscipit sit amet lectus non, blandit dapibus arcu. Sed auctor ante augue, sed pellentesque tortor faucibus quis. Fusce et ipsum non lectus placerat vulputate semper nec metus.
 HotspotPanoramaOverlayTextImage_2D058ACC_AA5B_6C71_41DD_59E9F6B7E2C3.text = More info
 HotspotPanoramaOverlayTextImage_ED357444_AA49_6471_41B5_AD7EC3BAA20C.text = More info
 HotspotPanoramaOverlayTextImage_2D5EF0F3_AA49_9C17_41E3_11838B404C78.text = More info
 HotspotPanoramaOverlayTextImage_EDF47788_AA7B_A4F1_41DE_C336D02FBA8F.text = More info
-HotspotPanoramaOverlayTextImage_28C08E78_AA49_A411_41D4_820E6E3BE819.text = More info
 HotspotPanoramaOverlayTextImage_2CA84F6C_AA48_E431_41D9_ABCF0C17F260.text = More info
-HotspotPanoramaOverlayTextImage_9F109E39_8973_CDF0_41DD_CA5BE5E44734.text = Rare books and fine records
+HotspotPanoramaOverlayTextImage_28C08E78_AA49_A411_41D4_820E6E3BE819.text = More info
 HotspotPanoramaOverlayTextImage_96417DB7_89D4_CEF0_41D7_766CAA1E47C3.text = Rivoli Theater
 HotspotPanoramaOverlayTextImage_ABC3E43D_89CC_DDF3_41A5_9CF49FDAF908.text = Rivoli Theater
 HotspotPanoramaOverlayTextImage_9CC42704_8974_5B90_41D3_86C82662C8A1.text = Soldato
@@ -81,7 +81,7 @@ imlevel_2F9A0097_AA5B_9C10_41AC_27138A663F41.url = media/panorama_7C9F005D_77DE_
 imlevel_2F9A8036_AA5B_9C11_41D7_4EF855CBE285.url = media/panorama_7C9F005D_77DE_1426_41CB_2DBEE57DA544_HS_dmozpzr7_en.png
 imlevel_2F8D3157_AA5B_9C1F_41BB_0589CD6E52CB.url = media/panorama_7C9F005D_77DE_1426_41CB_2DBEE57DA544_HS_t1yu4pq2_en.png
 imlevel_2C0E4B2F_AA48_AC0F_41E5_1A97C4AD8271.url = media/panorama_7CB26080_77D6_141D_41D7_272F47F9375D_HS_3s4sqdnb_en.png
-imlevel_B4BBAE28_A25F_A402_41E0_8461BEEAEC5E.url = media/panorama_7CB26080_77D6_141D_41D7_272F47F9375D_HS_c3w8qe9c_en.png
+imlevel_D5AA17F0_C078_05FD_41E4_9D1EEF183F78.url = media/panorama_7CB26080_77D6_141D_41D7_272F47F9375D_HS_c3w8qe9c_en.png
 imlevel_2D9C1DE0_AA48_A431_41B1_DC4980495A80.url = media/panorama_7CB26080_77D6_141D_41D7_272F47F9375D_HS_d6n7zkda_en.png
 imlevel_B6ECAD06_A25F_A401_41B4_C02242F65B57.url = media/panorama_7CB26080_77D6_141D_41D7_272F47F9375D_HS_vke83rkm_en.png
 imlevel_2C030C5A_AA48_A411_41C5_12D03D4A528D.url = media/panorama_7CB26080_77D6_141D_41D7_272F47F9375D_HS_ymscn770_en.png
@@ -143,16 +143,17 @@ model_A92E2AA9_A6CF_6C33_41D0_2BC7A9CB3D85.label = map-bits3
 video_9C099A7C_8842_0C74_41C3_49B253CEB16B.label = zoomy
 
 ### Video
-videolevel_27CE2863_AAB8_EC37_41DB_774AF0B9C50B.url = media/video_28F9BEB9_AA48_A413_41D2_F42D09E0189A_en.mp4
-videolevel_27CE2863_AAB8_EC37_41DB_774AF0B9C50B.posterURL = media/video_28F9BEB9_AA48_A413_41D2_F42D09E0189A_poster_en.jpg
-videolevel_27CF882A_AAB8_EC31_41BA_D8A50838DCA7.url = media/video_9C099A7C_8842_0C74_41C3_49B253CEB16B_en.mp4
-videolevel_27CF882A_AAB8_EC31_41BA_D8A50838DCA7.posterURL = media/video_9C099A7C_8842_0C74_41C3_49B253CEB16B_poster_en.jpg
+videolevel_D7691EE9_C078_07EE_41D7_088D3A74D17E.url = media/video_28F9BEB9_AA48_A413_41D2_F42D09E0189A_en.mp4
+videolevel_D7691EE9_C078_07EE_41D7_088D3A74D17E.posterURL = media/video_28F9BEB9_AA48_A413_41D2_F42D09E0189A_poster_en.jpg
+videolevel_D768BEB3_C078_0662_41E7_A9ED6F9389D8.url = media/video_9C099A7C_8842_0C74_41C3_49B253CEB16B_en.mp4
+videolevel_D768BEB3_C078_0662_41E7_A9ED6F9389D8.posterURL = media/video_9C099A7C_8842_0C74_41C3_49B253CEB16B_poster_en.jpg
 
 ### Video Subtitles
 
 ## Skin
 
 ### Label
+Label_D0498D44_C038_0A25_41C3_887C6B163B77.text = Directory
 Label_3828703C_7876_0FB4_4186_EE732881EDEF.text = Directory
 Label_3A815911_7876_314C_41BA_1A5582530D83.text = Map
 Label_E5894988_AAC9_ACF1_41A7_967793B0906A.text = Only a short walk
@@ -160,8 +161,8 @@ Label_9A543E25_8842_0794_41AF_94DF673EC6C7.text = Rutherford NJ
 Label_85CF8CBD_8842_04F4_41B2_FBDB90BF06EF.text = Start
 Label_9107EB9E_8842_0CB4_41C8_4B8E82673B41.text = The heart of town
 Label_A8958E94_89CE_04B4_41D5_266DBBDABBAB.text = Welcome
+Label_E5F8018E_AAC8_9CF1_41D3_FB29A2B7B14D.text = from the nyc train
 Label_2AEB7A7B_AA79_6C17_41E3_99C50CD3622E.text = to the Williams Center
-Label_E5F8018E_AAC8_9CF1_41D3_FB29A2B7B14D.text = to the nyc train
 
 ## Tour
 
